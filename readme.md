@@ -5,3 +5,6 @@ A set of (alphabetically ordered) implementations of some of the algorithms disc
 https://www.coursera.org/specializations/algorithms
 
 https://timroughgarden.org/videos.html
+
+
+NB. All code in this repository is provided for educational purposes only, with absolutely no warranty explicit, implied, or otherwise.
